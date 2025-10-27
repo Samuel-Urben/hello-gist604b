@@ -10,10 +10,11 @@ In this assignment, I learned:
 - [Why documentation matters in open source projects]
 
 ## Challenges and Solutions
-[Describe 1-2 challenges you faced and how you overcame them. Examples: creating folders in GitHub, understanding the two-repository workflow, writing markdown]
+The major difficulty that arose in this assignment was a bug within the repository validation workflow. Examining the YML file gave me a deeper understanding of how a repository is structured and provided insight as to why the bug was occuring.
 
 ## Connection to My GIS Career
-[Explain in 2-3 sentences how GitHub skills will help you in your GIS career. Think about portfolio building, collaboration, contributing to open source projects]
+
+Version control is a neccesary tool for any software project. Whether I work for an organization that uses Git or not, I will certainly be using version control throughout my career. I am excited to develop these skills throughout this class.
 
 ## Open Source Workflow Understanding
 Creating my own repository (`hello-gist604b`) mirrors the open source contribution process. In real projects, developers fork existing repositories, make improvements, and submit contributions - similar to how I created this repository and linked it to the assignment system.
