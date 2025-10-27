@@ -1,6 +1,6 @@
 # Hello GIST 604B
 
-**Student:** Samuel Urben 
+**Student:** Samuel Urben! 
 **Course:** GIST 604B - Open Source GIS  
 **Assignment:** M1A3 - GitHub Repository Management  
 **University of Arizona**
@@ -10,7 +10,7 @@ In this assignment, I'm learning:
 - GitHub repository management and organization
 - Professional documentation with markdown
 - Open source collaboration workflows
-- Version control for GIS projects
+- Version control for GIS projects the quick brown fox jumped over the lazy dog I am upping the word count to see if I am still havign issues because the bug still seems to persist
 
 ## 📋 Repository Purpose
 This repository demonstrates GitHub skills including:
